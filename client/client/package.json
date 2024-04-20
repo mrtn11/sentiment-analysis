@@ -1,0 +1,39 @@
+{
+  "name": "client",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "@fortawesome/free-regular-svg-icons": "^6.5.2",
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@fortawesome/vue-fontawesome": "^3.0.6",
+    "@syncfusion/ej2-vue-buttons": "^25.1.35",
+    "@syncfusion/ej2-vue-grids": "^25.1.38",
+    "@syncfusion/ej2-vue-lineargauge": "^25.1.35",
+    "apexcharts": "^3.48.0",
+    "bootstrap": "^5.3.3",
+    "bootstrap-vue": "^2.23.1",
+    "epic-spinners": "^2.0.0",
+    "gauge-chart": "^1.0.0",
+    "react-gauge-chart": "^0.4.1",
+    "vgauge": "^1.2.12-rc3",
+    "vue": "^3.4.15",
+    "vue-apexcharts": "^1.6.2",
+    "vue-gauge": "^1.0.3",
+    "vue-router": "^4.2.5",
+    "vue-speedometer": "^3.0.1",
+    "vue3-apexcharts": "^1.5.2",
+    "vuetify": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.3",
+    "vite": "^5.0.11",
+    "vue-cli-plugin-vuetify": "~2.5.8"
+  }
+}
